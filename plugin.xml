@@ -3,6 +3,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
   <name>Amazon AWS</name>
   <author>Telerik Inc.</author>
+  <description>Because apparently PhoneGap need this</description>
 
   <js-module name="aws-sdk-js" src="www/aws-sdk-js/dist/aws-sdk.min.js">
     <clobbers target="aws-sdk-js"/>
